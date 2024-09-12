@@ -1,20 +1,14 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x < 0){
-            return false;
-        }
+        String str = String.valueOf(x);
+        int len = str.length();
 
-        ArrayList<Integer> nums = new ArrayList<>();
-        while(x != 0){
-            nums.add(x % 10);
-            x /= 10;
-        }
-
-        for(int i = 0; i < nums.size(); i++){
-            if(nums.get(i) != nums.get(nums.size() - i - 1)){
+        for(int i = 0; i < len / 2; i++){
+            if(str.charAt(i) != str.charAt(len - i - 1)){
                 return false;
             }
-        }
+        }        
+
 
         return true;
     }
