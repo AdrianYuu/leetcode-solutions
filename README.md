@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
