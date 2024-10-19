@@ -1,83 +1,25 @@
 class Solution {
     public String addBinary(String a, String b) {
         StringBuilder res = new StringBuilder();
-
         int lenA = a.length() - 1;
         int lenB = b.length() - 1;
-        boolean isExtra = false;
-        int current = 0;
+        int carry = 0;
 
-        while((lenA >= 0) && (lenB >= 0)){
-            if(isExtra){
-                current = (a.charAt(lenA) - '0') + (b.charAt(lenB) - '0') + 1;
-                isExtra = false;
-            } else {
-            	current = (a.charAt(lenA) - '0') + (b.charAt(lenB) - '0');
-            }
-            
-            if(current >= 2){
-                isExtra = true;
-                if(current == 2) {
-                	res.append(0);
-                } else {
-                	res.append(1);
-                }
-            } else {
-                res.append(current);
+        while (lenA >= 0 || lenB >= 0 || carry > 0) {
+            int sum = carry;
+
+            if (lenA >= 0) {
+                sum += a.charAt(lenA--) - '0';
             }
 
-            if(isExtra && lenA == 0 && lenB == 0) res.append("1");
-
-            lenA--;
-            lenB--;
-        }
-        
-        while(lenA >= 0){
-            if(isExtra){
-                current = (a.charAt(lenA) - '0') + 1;
-                isExtra = false;
-            } else {
-                current = (a.charAt(lenA) - '0');
+            if (lenB >= 0) {
+                sum += b.charAt(lenB--) - '0';
             }
 
-            if(current >= 2){
-                isExtra = true;
-                if(current == 2) {
-                	res.append(0);
-                } else {
-                	res.append(1);
-                }
-                if(lenA == 0) res.append("1");
-            } else {
-                res.append(current);
-            }
-
-            lenA--;
+            res.append(sum % 2);
+            carry = sum / 2;
         }
 
-        while(lenB >= 0){
-            if(isExtra){
-                current = (b.charAt(lenB) - '0') + 1;
-                isExtra = false;
-            } else {
-                current = (b.charAt(lenB) - '0');
-            }
-
-            if(current >= 2){
-            	isExtra = true;
-                if(current == 2) {
-                	res.append(0);
-                } else {
-                	res.append(1);
-                }
-                if(lenB == 0) res.append("1");
-            } else {
-                res.append(current);
-            }
-
-            lenB--;
-        }
-        
         return res.reverse().toString();
     }
 }
