@@ -16,6 +16,7 @@ class Solution {
             }
             
             row.add(1);
+            
             result.add(row);
         }
 
