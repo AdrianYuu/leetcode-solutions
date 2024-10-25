@@ -1,12 +1,10 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        s = s.toLowerCase();
-		 
         StringBuilder res = new StringBuilder();
 
         for(char c : s.toCharArray()){
             if(Character.isLetterOrDigit(c)){
-                res.append(c);
+                res.append(Character.toLowerCase(c));
             }
         }
         
