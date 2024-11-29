@@ -11,21 +11,22 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        if(head == null){
+        if(head == null || head.next == null){
             return false;
         }
 
-        HashMap<ListNode, Boolean> hashMap = new HashMap<>();
+        ListNode slowPtr = head;
+        ListNode fastPtr = head.next;
 
-        while(head != null){
-            if(hashMap.containsKey(head) && hashMap.get(head) == true){
-                return true;
+        while(slowPtr != fastPtr){
+            if(fastPtr.next == null || fastPtr.next.next == null){
+                return false;
             }
 
-            hashMap.put(head, true);
-            head = head.next;
+            slowPtr = slowPtr.next;
+            fastPtr = fastPtr.next.next;
         }
 
-        return false;
+        return true;
     }
 }
