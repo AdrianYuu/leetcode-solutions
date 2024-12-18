@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
