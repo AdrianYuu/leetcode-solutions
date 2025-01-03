@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2358-number-of-ways-to-split-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
