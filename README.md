@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
+| [1524-string-matching-in-an-array](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0344-reverse-string) |
+| [1524-string-matching-in-an-array](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 ## Linked List
 |  |
 | ------- |
