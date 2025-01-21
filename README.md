@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0463-island-perimeter) |
+| [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
 | [1137-height-checker](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1241-decompress-run-length-encoded-list) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0344-reverse-string) |
+| [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0338-counting-bits) |
+| [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrianYuu/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
+| [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0463-island-perimeter) |
+| [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
