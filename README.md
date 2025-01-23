@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1502-construct-k-palindrome-strings) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 ## String Matching
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1137-height-checker](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1137-height-checker) |
 ## Tree
 |  |
