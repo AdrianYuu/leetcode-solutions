@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [2481-strictly-palindromic-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
+| [2481-strictly-palindromic-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 ## String Matching
 |  |
 | ------- |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3221-find-the-peaks) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
