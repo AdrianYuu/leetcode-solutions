@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1241-decompress-run-length-encoded-list) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1547-destination-city) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1502-construct-k-palindrome-strings) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
