@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1241-decompress-run-length-encoded-list) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1547-destination-city) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2481-strictly-palindromic-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
