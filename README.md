@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2481-strictly-palindromic-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1547-destination-city) |
 | [1894-merge-strings-alternately](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1944-truncate-sentence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
