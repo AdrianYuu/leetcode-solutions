@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1944-truncate-sentence) |
+| [2058-concatenation-of-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2058-concatenation-of-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
