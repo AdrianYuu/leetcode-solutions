@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3379-score-of-a-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3379-score-of-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
