@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrianYuu/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1547-destination-city) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrianYuu/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Monotonic Stack
