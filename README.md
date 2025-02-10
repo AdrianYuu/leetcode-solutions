@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3567-convert-date-to-binary](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3567-convert-date-to-binary) |
 ## Two Pointers
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3447-clear-digits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
