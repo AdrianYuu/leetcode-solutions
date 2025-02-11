@@ -4,7 +4,8 @@ class Solution {
         int length = part.length();
 
         while(sb.indexOf(part) != -1){
-            sb.delete(sb.indexOf(part), sb.indexOf(part) + length);
+            int index = sb.indexOf(part);
+            sb.delete(index, index + length);
         }
 
         return sb.toString();
