@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1241-decompress-run-length-encoded-list) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1547-destination-city) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2383-add-two-integers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2383-add-two-integers) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
@@ -358,9 +361,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1708-design-parking-system](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1708-design-parking-system) |
 ## Number Theory
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
