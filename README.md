@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2365-percentage-of-letter-in-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
