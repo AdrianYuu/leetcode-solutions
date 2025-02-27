@@ -8,25 +8,25 @@ class Solution {
 
         for(int i = 0; i < len; i++){
             for(int j = i + 1; j < len; j++){
-                int index = 0;
-                int[] tempArr = new int[len + 1];
-
-                tempArr[index++] = arr[i];
-                tempArr[index++] = arr[j];
+                int counter = 2;
+                int firstNumber = arr[i];
+                int secondNumber = arr[j];
 
                 boolean valid = true;
 
                 while(valid){
                     valid = false;
-                    tempArr[index] = tempArr[index - 2] + tempArr[index - 1];
+                    int temp = firstNumber;
+                    firstNumber = secondNumber;
+                    secondNumber += temp;
 
-                    if(set.contains(tempArr[index])){
+                    if(set.contains(secondNumber)){
                         valid = true;
-                        index++;
+                        counter++;
                     }
                 }
                 
-                if(index >= 3) result = Math.max(result, index);
+                if(counter >= 3) result = Math.max(result, counter);
             }
         }
 
