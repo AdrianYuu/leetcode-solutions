@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0463-island-perimeter) |
+| [0575-distribute-candies](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
