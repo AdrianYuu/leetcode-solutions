@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1642-water-bottles) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2383-add-two-integers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
