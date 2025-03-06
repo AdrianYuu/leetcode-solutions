@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3221-find-the-peaks) |
+| [3227-find-missing-and-repeated-values](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3429-special-array-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrianYuu/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
