@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2714-left-and-right-sum-differences](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2714-left-and-right-sum-differences) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Rolling Hash
 |  |
 | ------- |
