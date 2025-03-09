@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0575-distribute-candies](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
