@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2556-convert-the-temperature) |
+| [2752-sum-multiples](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
