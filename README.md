@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2502-sort-the-people) |
+| [2886-faulty-keyboard](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3379-score-of-a-string) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
+| [2886-faulty-keyboard](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
