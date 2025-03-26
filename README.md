@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1547-destination-city) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1572-subrectangle-queries](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1572-subrectangle-queries) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1603-running-sum-of-1d-array) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
+| [1572-subrectangle-queries](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1572-subrectangle-queries) |
 | [1791-richest-customer-wealth](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1572-subrectangle-queries](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1572-subrectangle-queries) |
 | [1708-design-parking-system](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1708-design-parking-system) |
 ## Number Theory
 |  |
