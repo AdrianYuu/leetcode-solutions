@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3540-hash-divided-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3540-hash-divided-string) |
 | [3567-convert-date-to-binary](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3636-check-balanced-string) |
 ## Two Pointers
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3447-clear-digits) |
+| [3540-hash-divided-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3540-hash-divided-string) |
 ## Dynamic Programming
 |  |
 | ------- |
