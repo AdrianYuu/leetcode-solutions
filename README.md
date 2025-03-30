@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0768-partition-labels](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0782-jewels-and-stones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0768-partition-labels](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2128-reverse-prefix-of-word) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1502-construct-k-palindrome-strings) |
