@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2714-left-and-right-sum-differences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrianYuu/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2556-convert-the-temperature) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
