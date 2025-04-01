@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3778-transform-array-by-parity](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2502-sort-the-people) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
+| [3778-transform-array-by-parity](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3778-transform-array-by-parity) |
 ## Tree
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3778-transform-array-by-parity](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3778-transform-array-by-parity) |
 ## Monotonic Stack
 |  |
 | ------- |
