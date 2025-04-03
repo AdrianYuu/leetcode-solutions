@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AdrianYuu/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3221-find-the-peaks) |
