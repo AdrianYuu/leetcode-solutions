@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3540-hash-divided-string) |
 | [3567-convert-date-to-binary](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3636-check-balanced-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3540-hash-divided-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
