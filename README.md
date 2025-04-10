@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1448-maximum-69-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1610-xor-operation-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
+| [1610-xor-operation-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
