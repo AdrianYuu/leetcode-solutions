@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/AdrianYuu/leetcode-solutions/tree/master/2181-smallest-index-with-equal-value) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AdrianYuu/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2341-count-prefixes-of-a-given-string) |
