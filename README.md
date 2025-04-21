@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1720-crawler-log-folder](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1720-crawler-log-folder) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1720-crawler-log-folder) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
