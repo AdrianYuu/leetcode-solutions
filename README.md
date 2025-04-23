@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1500-count-largest-group](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1547-destination-city) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1448-maximum-69-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1642-water-bottles) |
