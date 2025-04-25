@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0575-distribute-candies) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1502-construct-k-palindrome-strings) |
