@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1241-decompress-run-length-encoded-list) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1500-count-largest-group) |
