@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0605-can-place-flowers) |
+| [0822-unique-morse-code-words](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0768-partition-labels](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0822-unique-morse-code-words) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1205-defanging-an-ip-address) |
