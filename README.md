@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0283-move-zeroes) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0290-word-pattern) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AdrianYuu/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
