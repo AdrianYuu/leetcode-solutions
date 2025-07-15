@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3540-hash-divided-string) |
