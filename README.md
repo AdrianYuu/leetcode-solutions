@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3778-transform-array-by-parity) |
+| [3790-fruits-into-baskets-ii](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3790-fruits-into-baskets-ii](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3540-hash-divided-string) |
+| [3790-fruits-into-baskets-ii](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -598,4 +601,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AdrianYuu/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/AdrianYuu/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
