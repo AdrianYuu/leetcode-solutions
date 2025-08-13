@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0900-reordered-power-of-2) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
