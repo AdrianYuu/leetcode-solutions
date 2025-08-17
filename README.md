@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0861-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
