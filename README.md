@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AdrianYuu/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Trie
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
